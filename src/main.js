@@ -4,7 +4,7 @@ import {createBoardTemplate} from "./components/board.js";
 import {createEditTaskTemplate} from "./components/edit-task.js";
 import {createTaskTemplate} from "./components/task.js";
 import {createLoadButtonTemplate} from "./components/load-button.js";
-import {generateFilters} from './mock/mock.js';
+import {generateFilters} from './mock/filter.js';
 
 const filters = generateFilters;
 
